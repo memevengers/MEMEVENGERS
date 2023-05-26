@@ -1,0 +1,17 @@
+{
+  "name": "MEMEVENGERS",
+  "version": "1.0.0",
+  "description": "Memevengers Smart Contract",
+  "main": "index.js",
+  "repository": "https://github.com/memevengers/MEMEVENGERS.git",
+  "author": "programmer <memevengers1963@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "npx hardhat compile"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "hardhat": "^2.14.0"
+  }
+}
